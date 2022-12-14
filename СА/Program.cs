@@ -30,6 +30,9 @@ namespace СА
             }
             Console.WriteLine($"\n minmax = {Math.Round(minmax,5)}\n maxmin = {Math.Round(maxmin,5)}");
             Console.WriteLine($"\n");
+            Console.WriteLine($"\n");
+            Console.WriteLine($"\nKornelyk Yura branch new");
+
         }
     }
 }
